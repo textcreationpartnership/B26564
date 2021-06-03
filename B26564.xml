@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of the Earle of Marleborough's letter to Sir Hugh P. Dated aboard the Old James, April 24. 1665</title>
+            <author>Marlborough, James Ley, Earl of, 1618-1665.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26564</idno><idno type="EEBO-CITATION">99829412</idno>
+  <idno type="VID">207124</idno>
+  <idno type="EEBO-PROQUEST">2248509499</idno>
+  
+            <idno type="STC">Wing M685A</idno>
+            <idno type="PROQUEST">99829412</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829412e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26564)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207124)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1993:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of the Earle of Marleborough's letter to Sir Hugh P. Dated aboard the Old James, April 24. 1665</title>
+                  <author>Marlborough, James Ley, Earl of, 1618-1665.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Bedell, and T. Collins, near the Middle-Temple Gate in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Pollard, Hugh, --  Sir, 1610-1666 --  Early works to 1800.</term>
+               <term type="topical_term">Spiritual life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:207124:1"/>
+            <head>A COPY of the Earle of Marleborough's Letter to Sir <hi>Hugh P.</hi> Dated aboard the <hi>Old James,</hi> April 24. 1665.</head>
+            <div type="to_the_reader">
+               <head>To the Reader.</head>
+               <p>THis following Letter (being a true Copy of the Original) coming accidentally to my view, and considering with my self, that it came from a <hi>dying man,</hi> [at least so in his apprehension,] when commonly the <hi>Heart,</hi> and not the Mouth, speaketh; I held it my Duty as a <hi>Christian,</hi> as well as a <hi>Friend</hi> that honours his <hi>Memory</hi> that writ it, to present it to publick view. <hi>First,</hi> That the Example of his <hi>Piety,</hi> in examining himself before the Day of Battel, Whether he was prepared for death, (considering that upon this moment of Man's life Eternity doth de<g ref="char:EOLhyphen"/>pend) might be <hi>imitated</hi> by others. <hi>Secondly,</hi> That the Foundation he hath laid in his Letter for every Christian to build upon in order to eternal Salvation, viz. <hi>Christ Jesus</hi> in his <hi>Word,</hi> might not for the future (as he saith) be either neglected, or despised. <hi>Thirdly,</hi> That his Memory may never be forgotten, who lost his life in Battel against the <hi>Dutch,</hi> June <hi>3. 1665.</hi> when the <hi>Honour</hi> of his <hi>Prince</hi> and <hi>Countrey</hi> lay at stake; dying not onely as a vali<g ref="char:EOLhyphen"/>ant <hi>Souldier</hi> and <hi>English-man,</hi> but as a pious and good <hi>Christian.</hi> And <hi>lastly,</hi> now that Gods destroying <hi>Angel</hi> is walking abroad, cutting off many daily by his dreadfull Judgment of the <hi>Plague;</hi> let the good Counsel and Advice given by this Noble Person, to prepare for <hi>Eternity,</hi> take deep root and impression in your hearts.</p>
+            </div>
+            <div type="letter">
+               <head>The LETTER.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Believe the goodness of your Nature, and the Friendship you have alwayes borne me, will receive with kindness this <hi>last office</hi> of your Friend. I am in health enough in body, and through the Mer<g ref="char:EOLhyphen"/>cy of God in <hi>Jesus Christ</hi> well-disposed in mind. This I premise, that you may be satisfied that what I write proceeds not from any phantasying terror of mind, but from a <hi>sober resolution</hi> of what concerns my self, and earnest desire to do you more good after my <hi>death,</hi> then by mine <hi>example</hi> (God of his Mer<g ref="char:EOLhyphen"/>cy pardon the badness of it) in my <hi>life-time</hi> I may have done you harm. I will not speak of the <hi>Va<g ref="char:EOLhyphen"/>nities</hi> of this World; your own Age and Experience will save that labour: But there is a certain thing that goes up and down in the World, called <hi>Religion,</hi> dressed and pretended phantastically, and to pur<g ref="char:EOLhyphen"/>poses bad enough; which yet by such evil dealing loseth not it's <hi>Being:</hi> The great and good <hi>God</hi> hath not left it without a <hi>Witness,</hi> more or less, sooner or later, in every man's bosome, to direct us in the pur<g ref="char:EOLhyphen"/>suit of it, and for the avoiding those inextricable disquisitions and intanglements our own frail Reason would perplex us withal: God in his infinite Mercy hath given us his holy <hi>Word;</hi> in which, as there are many things hard to be understood, so there is enough plain and easie to be understood, to quiet our minds, and direct us concerning our <hi>future being.</hi> I confess to God and you, I have been a great <hi>Neglect<g ref="char:EOLhyphen"/>er,</hi> and I fear <hi>Despiser</hi> of it; God of his infinite Mercy <hi>pardon</hi> me that dreadful fault: But when I retire my self from the noise and deceitful Vanities of the World, I find no true <hi>comfort</hi> in any other resoluti<g ref="char:EOLhyphen"/>on then what I did derive from thence. I commend, from the bottom of my heart, the same to your (I hope) <hi>happy use.</hi> Dear Sir <hi>Hugh,</hi> Let us be more generous then to believe we die as the Beasts that pe<g ref="char:EOLhyphen"/>rish; but with a Christian, manly, brave resolution, look to what is <hi>Eternal.</hi> I will not trouble you fur<g ref="char:EOLhyphen"/>ther. The onely great God, and holy God, Father, Son, and Holy Ghost, direct you to a <hi>happy end</hi> of your life, and send us a joyful <hi>Resurrection;</hi> so prayeth your true Friend,</p>
+               <closer>
+                  <dateline>Aboard the Old <hi>James,</hi> near the the Coast of <hi>Holland,</hi>
+                     <date>
+                        <hi>April</hi> 24. 1665.</date>
+                  </dateline>
+                  <signed>MARLEBOROƲGH.</signed>
+               </closer>
+               <postscript>
+                  <p>I beseech you commend my love to all mine Acquaintance: Particularly, I pray that my Cousin <hi>Glas<g ref="char:EOLhyphen"/>cock</hi> may have a fight of this Letter, and as many of my Friends as you will, or any else that desireth it. I pray you grant this my request,</p>
+               </postscript>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. Bedell,</hi> and <hi>T. Collins,</hi> near the Middle-Temple Gate in <hi>Fleetstreet.</hi> 1665.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
